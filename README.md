@@ -5,4 +5,4 @@ SMEP++
 this is the SMEP++ program the offical transition between c and c++ in SMEP
 
 what is SIN?
-SIN is the spem interactive console
+SIN is the smep interactive console
